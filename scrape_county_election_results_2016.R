@@ -61,4 +61,5 @@ res <- merge(
 
 # View(subset(res, is.na(fips)))
 
-write.csv(res, "county_election_results_2016.csv", row.names=FALSE)
+write.csv(res, file.path(wd, "county_election_results_2016.csv"), 
+          row.names=FALSE)
