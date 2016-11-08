@@ -1,5 +1,5 @@
 "abbr_state","county","candidate","votes","percent_won","percent_complete","fips"
-"ajk","alaska","Donald Trump","-","-","0",NA
+"ak","alaska","Donald Trump","-","-","0",NA
 "ak","alaska","Jill Stein","-","-","0",NA
 "ak","alaska","Gary Johnson","-","-","0",NA
 "ak","alaska","Other","-","-","0",NA
@@ -1151,18 +1151,18 @@
 "co","eagle","Jill Stein","-","-","0",8037
 "co","eagle","Donald Trump","-","-","0",8037
 "co","eagle","Hillary Clinton","-","-","0",8037
-"co","el paso","Other","-","-","0",8041
-"co","el paso","Evan McMullin","-","-","0",8041
-"co","el paso","Donald Trump","-","-","0",8041
-"co","el paso","Jill Stein","-","-","0",8041
-"co","el paso","Gary Johnson","-","-","0",8041
-"co","el paso","Hillary Clinton","-","-","0",8041
 "co","elbert","Evan McMullin","-","-","0",8039
 "co","elbert","Other","-","-","0",8039
 "co","elbert","Gary Johnson","-","-","0",8039
 "co","elbert","Jill Stein","-","-","0",8039
 "co","elbert","Donald Trump","-","-","0",8039
 "co","elbert","Hillary Clinton","-","-","0",8039
+"co","el paso","Other","-","-","0",8041
+"co","el paso","Evan McMullin","-","-","0",8041
+"co","el paso","Donald Trump","-","-","0",8041
+"co","el paso","Jill Stein","-","-","0",8041
+"co","el paso","Gary Johnson","-","-","0",8041
+"co","el paso","Hillary Clinton","-","-","0",8041
 "co","fremont","Hillary Clinton","-","-","0",8043
 "co","fremont","Evan McMullin","-","-","0",8043
 "co","fremont","Donald Trump","-","-","0",8043
@@ -1229,18 +1229,18 @@
 "co","kit carson","Gary Johnson","-","-","0",8063
 "co","kit carson","Evan McMullin","-","-","0",8063
 "co","kit carson","Other","-","-","0",8063
-"co","la plata","Other","-","-","0",8067
-"co","la plata","Jill Stein","-","-","0",8067
-"co","la plata","Gary Johnson","-","-","0",8067
-"co","la plata","Donald Trump","-","-","0",8067
-"co","la plata","Hillary Clinton","-","-","0",8067
-"co","la plata","Evan McMullin","-","-","0",8067
 "co","lake","Hillary Clinton","-","-","0",8065
 "co","lake","Other","-","-","0",8065
 "co","lake","Jill Stein","-","-","0",8065
 "co","lake","Gary Johnson","-","-","0",8065
 "co","lake","Evan McMullin","-","-","0",8065
 "co","lake","Donald Trump","-","-","0",8065
+"co","la plata","Other","-","-","0",8067
+"co","la plata","Jill Stein","-","-","0",8067
+"co","la plata","Gary Johnson","-","-","0",8067
+"co","la plata","Donald Trump","-","-","0",8067
+"co","la plata","Hillary Clinton","-","-","0",8067
+"co","la plata","Evan McMullin","-","-","0",8067
 "co","larimer","Other","-","-","0",8069
 "co","larimer","Jill Stein","-","-","0",8069
 "co","larimer","Gary Johnson","-","-","0",8069
@@ -3227,14 +3227,14 @@
 "il","cumberland","Jill Stein","-","-","0",17035
 "il","cumberland","Donald Trump","-","-","0",17035
 "il","cumberland","Hillary Clinton","-","-","0",17035
-"il","de witt","Hillary Clinton","-","-","0",17039
-"il","de witt","Donald Trump","-","-","0",17039
-"il","de witt","Jill Stein","-","-","0",17039
-"il","de witt","Gary Johnson","-","-","0",17039
 "il","dekalb","Hillary Clinton","-","-","0",17037
 "il","dekalb","Donald Trump","-","-","0",17037
 "il","dekalb","Gary Johnson","-","-","0",17037
 "il","dekalb","Jill Stein","-","-","0",17037
+"il","de witt","Hillary Clinton","-","-","0",17039
+"il","de witt","Donald Trump","-","-","0",17039
+"il","de witt","Jill Stein","-","-","0",17039
+"il","de witt","Gary Johnson","-","-","0",17039
 "il","douglas","Hillary Clinton","-","-","0",17041
 "il","douglas","Donald Trump","-","-","0",17041
 "il","douglas","Jill Stein","-","-","0",17041
@@ -3347,14 +3347,14 @@
 "il","knox","Jill Stein","-","-","0",17095
 "il","knox","Donald Trump","-","-","0",17095
 "il","knox","Hillary Clinton","-","-","0",17095
-"il","la salle","Hillary Clinton","-","-","0",17099
-"il","la salle","Donald Trump","-","-","0",17099
-"il","la salle","Jill Stein","-","-","0",17099
-"il","la salle","Gary Johnson","-","-","0",17099
 "il","lake","Hillary Clinton","-","-","0",17097
 "il","lake","Gary Johnson","-","-","0",17097
 "il","lake","Jill Stein","-","-","0",17097
 "il","lake","Donald Trump","-","-","0",17097
+"il","la salle","Hillary Clinton","-","-","0",17099
+"il","la salle","Donald Trump","-","-","0",17099
+"il","la salle","Jill Stein","-","-","0",17099
+"il","la salle","Gary Johnson","-","-","0",17099
 "il","lawrence","Hillary Clinton","-","-","0",17101
 "il","lawrence","Donald Trump","-","-","0",17101
 "il","lawrence","Gary Johnson","-","-","0",17101
@@ -3499,14 +3499,14 @@
 "il","shelby","Donald Trump","-","-","0",17173
 "il","shelby","Jill Stein","-","-","0",17173
 "il","shelby","Hillary Clinton","-","-","0",17173
-"il","st. clair","Hillary Clinton","-","-","0",17163
-"il","st. clair","Donald Trump","-","-","0",17163
-"il","st. clair","Jill Stein","-","-","0",17163
-"il","st. clair","Gary Johnson","-","-","0",17163
 "il","stark","Donald Trump","-","-","0",17175
 "il","stark","Gary Johnson","-","-","0",17175
 "il","stark","Jill Stein","-","-","0",17175
 "il","stark","Hillary Clinton","-","-","0",17175
+"il","st. clair","Hillary Clinton","-","-","0",17163
+"il","st. clair","Donald Trump","-","-","0",17163
+"il","st. clair","Jill Stein","-","-","0",17163
+"il","st. clair","Gary Johnson","-","-","0",17163
 "il","stephenson","Hillary Clinton","-","-","0",17177
 "il","stephenson","Jill Stein","-","-","0",17177
 "il","stephenson","Donald Trump","-","-","0",17177
@@ -3782,15 +3782,15 @@
 "in","spencer","Donald Trump","-","-","0",18147
 "in","spencer","Hillary Clinton","-","-","0",18147
 "in","spencer","Gary Johnson","-","-","0",18147
-"in","st. joseph","Gary Johnson","-","-","0",18141
-"in","st. joseph","Hillary Clinton","-","-","0",18141
-"in","st. joseph","Donald Trump","-","-","0",18141
 "in","starke","Donald Trump","-","-","0",18149
 "in","starke","Hillary Clinton","-","-","0",18149
 "in","starke","Gary Johnson","-","-","0",18149
 "in","steuben","Hillary Clinton","-","-","0",18151
 "in","steuben","Gary Johnson","-","-","0",18151
 "in","steuben","Donald Trump","-","-","0",18151
+"in","st. joseph","Gary Johnson","-","-","0",18141
+"in","st. joseph","Hillary Clinton","-","-","0",18141
+"in","st. joseph","Donald Trump","-","-","0",18141
 "in","sullivan","Donald Trump","-","-","0",18153
 "in","sullivan","Hillary Clinton","-","-","0",18153
 "in","sullivan","Gary Johnson","-","-","0",18153
@@ -5021,12 +5021,6 @@
 "la","jefferson davis","Gary Johnson","-","-","0",22053
 "la","jefferson davis","Other","-","-","0",22053
 "la","jefferson davis","Hillary Clinton","-","-","0",22053
-"la","la salle","Jill Stein","-","-","0",22059
-"la","la salle","Gary Johnson","-","-","0",22059
-"la","la salle","Hillary Clinton","-","-","0",22059
-"la","la salle","Donald Trump","-","-","0",22059
-"la","la salle","Evan McMullin","-","-","0",22059
-"la","la salle","Other","-","-","0",22059
 "la","lafayette","Gary Johnson","-","-","0",22055
 "la","lafayette","Evan McMullin","-","-","0",22055
 "la","lafayette","Donald Trump","-","-","0",22055
@@ -5039,6 +5033,12 @@
 "la","lafourche","Jill Stein","-","-","0",22057
 "la","lafourche","Hillary Clinton","-","-","0",22057
 "la","lafourche","Donald Trump","-","-","0",22057
+"la","la salle","Jill Stein","-","-","0",22059
+"la","la salle","Gary Johnson","-","-","0",22059
+"la","la salle","Hillary Clinton","-","-","0",22059
+"la","la salle","Donald Trump","-","-","0",22059
+"la","la salle","Evan McMullin","-","-","0",22059
+"la","la salle","Other","-","-","0",22059
 "la","lincoln","Hillary Clinton","-","-","0",22061
 "la","lincoln","Evan McMullin","-","-","0",22061
 "la","lincoln","Jill Stein","-","-","0",22061
@@ -6300,12 +6300,6 @@
 "mn","sibley","Evan McMullin","-","-","0",27143
 "mn","sibley","Jill Stein","-","-","0",27143
 "mn","sibley","Donald Trump","-","-","0",27143
-"mn","st. louis","Other","-","-","0",27137
-"mn","st. louis","Gary Johnson","-","-","0",27137
-"mn","st. louis","Jill Stein","-","-","0",27137
-"mn","st. louis","Evan McMullin","-","-","0",27137
-"mn","st. louis","Hillary Clinton","-","-","0",27137
-"mn","st. louis","Donald Trump","-","-","0",27137
 "mn","stearns","Donald Trump","-","-","0",27145
 "mn","stearns","Other","-","-","0",27145
 "mn","stearns","Hillary Clinton","-","-","0",27145
@@ -6324,6 +6318,12 @@
 "mn","stevens","Gary Johnson","-","-","0",27149
 "mn","stevens","Evan McMullin","-","-","0",27149
 "mn","stevens","Jill Stein","-","-","0",27149
+"mn","st. louis","Other","-","-","0",27137
+"mn","st. louis","Gary Johnson","-","-","0",27137
+"mn","st. louis","Jill Stein","-","-","0",27137
+"mn","st. louis","Evan McMullin","-","-","0",27137
+"mn","st. louis","Hillary Clinton","-","-","0",27137
+"mn","st. louis","Donald Trump","-","-","0",27137
 "mn","swift","Jill Stein","-","-","0",27151
 "mn","swift","Gary Johnson","-","-","0",27151
 "mn","swift","Other","-","-","0",27151
@@ -8806,6 +8806,11 @@
 "nm","roosevelt","Jill Stein","-","-","0",35041
 "nm","roosevelt","Gary Johnson","-","-","0",35041
 "nm","roosevelt","Other","-","-","0",35041
+"nm","sandoval","Other","-","-","0",35043
+"nm","sandoval","Gary Johnson","-","-","0",35043
+"nm","sandoval","Jill Stein","-","-","0",35043
+"nm","sandoval","Donald Trump","-","-","0",35043
+"nm","sandoval","Hillary Clinton","-","-","0",35043
 "nm","san juan","Other","-","-","0",35045
 "nm","san juan","Donald Trump","-","-","0",35045
 "nm","san juan","Jill Stein","-","-","0",35045
@@ -8816,11 +8821,6 @@
 "nm","san miguel","Gary Johnson","-","-","0",35047
 "nm","san miguel","Jill Stein","-","-","0",35047
 "nm","san miguel","Other","-","-","0",35047
-"nm","sandoval","Other","-","-","0",35043
-"nm","sandoval","Gary Johnson","-","-","0",35043
-"nm","sandoval","Jill Stein","-","-","0",35043
-"nm","sandoval","Donald Trump","-","-","0",35043
-"nm","sandoval","Hillary Clinton","-","-","0",35043
 "nm","santa fe","Other","-","-","0",35049
 "nm","santa fe","Hillary Clinton","-","-","0",35049
 "nm","santa fe","Donald Trump","-","-","0",35049
@@ -9120,14 +9120,14 @@
 "ny","seneca","Gary Johnson","-","-","0",36099
 "ny","seneca","Jill Stein","-","-","0",36099
 "ny","seneca","Donald Trump","-","-","0",36099
-"ny","st. lawrence","Jill Stein","-","-","0",36089
-"ny","st. lawrence","Donald Trump","-","-","0",36089
-"ny","st. lawrence","Gary Johnson","-","-","0",36089
-"ny","st. lawrence","Hillary Clinton","-","-","0",36089
 "ny","steuben","Hillary Clinton","-","-","0",36101
 "ny","steuben","Jill Stein","-","-","0",36101
 "ny","steuben","Donald Trump","-","-","0",36101
 "ny","steuben","Gary Johnson","-","-","0",36101
+"ny","st. lawrence","Jill Stein","-","-","0",36089
+"ny","st. lawrence","Donald Trump","-","-","0",36089
+"ny","st. lawrence","Gary Johnson","-","-","0",36089
+"ny","st. lawrence","Hillary Clinton","-","-","0",36089
 "ny","suffolk","Gary Johnson","-","-","0",36103
 "ny","suffolk","Donald Trump","-","-","0",36103
 "ny","suffolk","Jill Stein","-","-","0",36103
@@ -11712,14 +11712,14 @@
 "tx","edwards","Donald Trump","-","-","0",48137
 "tx","edwards","Jill Stein","-","-","0",48137
 "tx","edwards","Gary Johnson","-","-","0",48137
-"tx","el paso","Gary Johnson","-","-","0",48141
-"tx","el paso","Jill Stein","-","-","0",48141
-"tx","el paso","Donald Trump","-","-","0",48141
-"tx","el paso","Hillary Clinton","-","-","0",48141
 "tx","ellis","Hillary Clinton","-","-","0",48139
 "tx","ellis","Donald Trump","-","-","0",48139
 "tx","ellis","Jill Stein","-","-","0",48139
 "tx","ellis","Gary Johnson","-","-","0",48139
+"tx","el paso","Gary Johnson","-","-","0",48141
+"tx","el paso","Jill Stein","-","-","0",48141
+"tx","el paso","Donald Trump","-","-","0",48141
+"tx","el paso","Hillary Clinton","-","-","0",48141
 "tx","erath","Gary Johnson","-","-","0",48143
 "tx","erath","Jill Stein","-","-","0",48143
 "tx","erath","Donald Trump","-","-","0",48143
@@ -11988,10 +11988,6 @@
 "tx","knox","Donald Trump","-","-","0",48275
 "tx","knox","Jill Stein","-","-","0",48275
 "tx","knox","Hillary Clinton","-","-","0",48275
-"tx","la salle","Hillary Clinton","-","-","0",48283
-"tx","la salle","Jill Stein","-","-","0",48283
-"tx","la salle","Donald Trump","-","-","0",48283
-"tx","la salle","Gary Johnson","-","-","0",48283
 "tx","lamar","Gary Johnson","-","-","0",48277
 "tx","lamar","Donald Trump","-","-","0",48277
 "tx","lamar","Jill Stein","-","-","0",48277
@@ -12004,6 +12000,10 @@
 "tx","lampasas","Donald Trump","-","-","0",48281
 "tx","lampasas","Jill Stein","-","-","0",48281
 "tx","lampasas","Hillary Clinton","-","-","0",48281
+"tx","la salle","Hillary Clinton","-","-","0",48283
+"tx","la salle","Jill Stein","-","-","0",48283
+"tx","la salle","Donald Trump","-","-","0",48283
+"tx","la salle","Gary Johnson","-","-","0",48283
 "tx","lavaca","Hillary Clinton","-","-","0",48285
 "tx","lavaca","Jill Stein","-","-","0",48285
 "tx","lavaca","Donald Trump","-","-","0",48285
