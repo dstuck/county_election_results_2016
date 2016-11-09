@@ -751,11 +751,11 @@
 "ca","alameda","Donald Trump","59,384","15.6%","100",6001
 "ca","alameda","Hillary Clinton","300,185","79.0%","100",6001
 "ca","alameda","Gary Johnson","9,550","2.5%","100",6001
-"ca","alpine","Jill Stein","10","3.8%","40",6003
-"ca","alpine","Donald Trump","120","45.6%","40",6003
-"ca","alpine","Gary Johnson","8","3.0%","40",6003
-"ca","alpine","Hillary Clinton","125","47.5%","40",6003
-"ca","alpine","Other","-","-","40",6003
+"ca","alpine","Jill Stein","17","4.3%","60",6003
+"ca","alpine","Donald Trump","168","43.0%","60",6003
+"ca","alpine","Gary Johnson","12","3.1%","60",6003
+"ca","alpine","Hillary Clinton","194","49.6%","60",6003
+"ca","alpine","Other","-","-","60",6003
 "ca","amador","Gary Johnson","441","4.4%","100",6005
 "ca","amador","Other","21","0.2%","100",6005
 "ca","amador","Hillary Clinton","3,420","34.0%","100",6005
@@ -816,11 +816,11 @@
 "ca","inyo","Hillary Clinton","2,499","39.9%","100",6027
 "ca","inyo","Other","37","0.6%","100",6027
 "ca","inyo","Donald Trump","3,328","53.2%","100",6027
-"ca","kern","Hillary Clinton","55,689","38.8%","83",6029
-"ca","kern","Other","807","0.6%","83",6029
-"ca","kern","Gary Johnson","5,005","3.5%","83",6029
-"ca","kern","Donald Trump","80,820","56.3%","83",6029
-"ca","kern","Jill Stein","1,353","0.9%","83",6029
+"ca","kern","Hillary Clinton","64,980","38.5%","100",6029
+"ca","kern","Other","940","0.6%","100",6029
+"ca","kern","Gary Johnson","6,087","3.6%","100",6029
+"ca","kern","Donald Trump","95,064","56.3%","100",6029
+"ca","kern","Jill Stein","1,663","1.0%","100",6029
 "ca","kings",NA,NA,NA,NA,6031
 "ca","kings.","Donald Trump","11,874","56.6%","813",NA
 "ca","kings.","Hillary Clinton","8,004","38.1%","813",NA
@@ -1132,12 +1132,12 @@
 "co","crowley","Evan McMullin","6","0.4%","100",8025
 "co","crowley","Hillary Clinton","336","22.2%","100",8025
 "co","crowley","Donald Trump","1,069","70.7%","100",8025
-"co","custer","Donald Trump","2,059","67.2%","75",8027
-"co","custer","Hillary Clinton","797","26.0%","75",8027
-"co","custer","Other","34","1.1%","75",8027
-"co","custer","Gary Johnson","141","4.6%","75",8027
-"co","custer","Jill Stein","24","0.8%","75",8027
-"co","custer","Evan McMullin","9","0.3%","75",8027
+"co","custer","Donald Trump","2,059","67.2%","100",8027
+"co","custer","Hillary Clinton","797","26.0%","100",8027
+"co","custer","Other","34","1.1%","100",8027
+"co","custer","Gary Johnson","141","4.6%","100",8027
+"co","custer","Jill Stein","24","0.8%","100",8027
+"co","custer","Evan McMullin","9","0.3%","100",8027
 "co","delta","Hillary Clinton","4,048","24.3%","85",8029
 "co","delta","Other","185","1.1%","85",8029
 "co","delta","Evan McMullin","128","0.8%","85",8029
