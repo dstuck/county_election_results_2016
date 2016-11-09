@@ -5267,10 +5267,10 @@
 "ma","franklin","Donald Trump","10,327","27.2%","100",25011
 "ma","franklin","Gary Johnson","1,886","5.0%","100",25011
 "ma","franklin","Jill Stein","1,405","3.7%","100",25011
-"ma","hampden","Hillary Clinton","109,978","55.2%","99.4",25013
-"ma","hampden","Donald Trump","77,682","39.0%","99.4",25013
-"ma","hampden","Gary Johnson","8,207","4.1%","99.4",25013
-"ma","hampden","Jill Stein","3,395","1.7%","99.4",25013
+"ma","hampden","Hillary Clinton","110,313","55.1%","100",25013
+"ma","hampden","Donald Trump","78,230","39.1%","100",25013
+"ma","hampden","Gary Johnson","8,262","4.1%","100",25013
+"ma","hampden","Jill Stein","3,415","1.7%","100",25013
 "ma","hampshire","Jill Stein","2,590","3.1%","100",25015
 "ma","hampshire","Hillary Clinton","54,572","66.3%","100",25015
 "ma","hampshire","Donald Trump","22,089","26.8%","100",25015
@@ -5952,8 +5952,8 @@
 "mn","chisago","Evan McMullin","496","1.7%","100",27025
 "mn","chisago","Jill Stein","317","1.1%","100",27025
 "mn","chisago","Donald Trump","18,444","61.5%","100",27025
-"mn","clay","Donald Trump","13,527","46.5%","100",27027
-"mn","clay","Hillary Clinton","12,953","44.6%","100",27027
+"mn","clay","Donald Trump","13,526","46.5%","100",27027
+"mn","clay","Hillary Clinton","12,952","44.6%","100",27027
 "mn","clay","Gary Johnson","1,486","5.1%","100",27027
 "mn","clay","Evan McMullin","424","1.5%","100",27027
 "mn","clay","Other","259","0.9%","100",27027
@@ -6122,7 +6122,7 @@
 "mn","lincoln","Jill Stein","18","0.6%","100",27081
 "mn","lyon","Evan McMullin","286","2.4%","100",27083
 "mn","lyon","Other","124","1.0%","100",27083
-"mn","lyon","Donald Trump","7,259","59.8%","100",27083
+"mn","lyon","Donald Trump","7,258","59.8%","100",27083
 "mn","lyon","Hillary Clinton","3,825","31.5%","100",27083
 "mn","lyon","Gary Johnson","523","4.3%","100",27083
 "mn","lyon","Jill Stein","115","0.9%","100",27083
@@ -6242,7 +6242,7 @@
 "mn","pope","Other","43","0.7%","100",27121
 "mn","ramsey","Jill Stein","4,544","1.7%","100",27123
 "mn","ramsey","Other","2,309","0.9%","100",27123
-"mn","ramsey","Hillary Clinton","176,609","65.7%","100",27123
+"mn","ramsey","Hillary Clinton","176,611","65.7%","100",27123
 "mn","ramsey","Donald Trump","70,659","26.3%","100",27123
 "mn","ramsey","Gary Johnson","9,601","3.6%","100",27123
 "mn","ramsey","Evan McMullin","4,987","1.9%","100",27123
@@ -8884,10 +8884,10 @@
 "nv","eureka","Hillary Clinton","74","8.7%","100",32011
 "nv","eureka","Other","38","4.4%","100",32011
 "nv","eureka","Gary Johnson","19","2.2%","100",32011
-"nv","humboldt","Donald Trump","596","69.6%","0",32013
-"nv","humboldt","Hillary Clinton","170","19.9%","0",32013
-"nv","humboldt","Other","57","6.7%","0",32013
-"nv","humboldt","Gary Johnson","33","3.9%","0",32013
+"nv","humboldt","Donald Trump","4,521","70.3%","100",32013
+"nv","humboldt","Hillary Clinton","1,386","21.5%","100",32013
+"nv","humboldt","Gary Johnson","269","4.2%","100",32013
+"nv","humboldt","Other","257","4.0%","100",32013
 "nv","lander","Gary Johnson","79","3.3%","100",32015
 "nv","lander","Donald Trump","1,828","75.8%","100",32015
 "nv","lander","Hillary Clinton","403","16.7%","100",32015
