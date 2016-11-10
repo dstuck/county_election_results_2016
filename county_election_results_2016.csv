@@ -8586,36 +8586,36 @@
 "nh","sullivan","Hillary Clinton","10,210","46.2%","100",33019
 "nh","sullivan","Gary Johnson","857","3.9%","100",33019
 "nh","sullivan","Jill Stein","238","1.1%","100",33019
-"nj","atlantic","Hillary Clinton","54,175","51.5%","98.7",34001
-"nj","atlantic","Donald Trump","47,741","45.3%","98.7",34001
-"nj","atlantic","Gary Johnson","1,912","1.8%","98.7",34001
-"nj","atlantic","Jill Stein","927","0.9%","98.7",34001
-"nj","atlantic","Other","524","0.5%","98.7",34001
+"nj","atlantic","Hillary Clinton","54,472","51.5%","100",34001
+"nj","atlantic","Donald Trump","47,882","45.3%","100",34001
+"nj","atlantic","Gary Johnson","1,915","1.8%","100",34001
+"nj","atlantic","Jill Stein","933","0.9%","100",34001
+"nj","atlantic","Other","536","0.5%","100",34001
 "nj","bergen","Other","748","0.2%","100",34003
 "nj","bergen","Hillary Clinton","209,251","54.5%","100",34003
 "nj","bergen","Donald Trump","163,220","42.5%","100",34003
 "nj","bergen","Gary Johnson","7,037","1.8%","100",34003
 "nj","bergen","Jill Stein","3,709","1.0%","100",34003
-"nj","burlington","Hillary Clinton","107,485","55.5%","97.5",34005
-"nj","burlington","Donald Trump","79,085","40.8%","97.5",34005
-"nj","burlington","Gary Johnson","4,357","2.3%","97.5",34005
-"nj","burlington","Jill Stein","2,121","1.1%","97.5",34005
-"nj","burlington","Other","569","0.3%","97.5",34005
-"nj","camden","Hillary Clinton","117,308","64.1%","99.1",34007
-"nj","camden","Donald Trump","59,716","32.6%","99.1",34007
-"nj","camden","Gary Johnson","3,405","1.9%","99.1",34007
-"nj","camden","Jill Stein","1,687","0.9%","99.1",34007
-"nj","camden","Other","795","0.4%","99.1",34007
+"nj","burlington","Hillary Clinton","108,361","55.6%","98.6",34005
+"nj","burlington","Donald Trump","79,539","40.8%","98.6",34005
+"nj","burlington","Gary Johnson","4,381","2.2%","98.6",34005
+"nj","burlington","Jill Stein","2,138","1.1%","98.6",34005
+"nj","burlington","Other","569","0.3%","98.6",34005
+"nj","camden","Hillary Clinton","142,375","64.6%","99.1",34007
+"nj","camden","Donald Trump","71,020","32.2%","99.1",34007
+"nj","camden","Gary Johnson","4,142","1.9%","99.1",34007
+"nj","camden","Jill Stein","1,932","0.9%","99.1",34007
+"nj","camden","Other","968","0.4%","99.1",34007
 "nj","cape may","Gary Johnson","895","1.9%","100",34009
 "nj","cape may","Jill Stein","387","0.8%","100",34009
 "nj","cape may","Donald Trump","28,237","58.4%","100",34009
 "nj","cape may","Hillary Clinton","18,626","38.5%","100",34009
 "nj","cape may","Other","230","0.5%","100",34009
-"nj","cumberland","Hillary Clinton","26,090","51.0%","100",34011
-"nj","cumberland","Donald Trump","23,363","45.7%","100",34011
-"nj","cumberland","Gary Johnson","978","1.9%","100",34011
-"nj","cumberland","Jill Stein","469","0.9%","100",34011
-"nj","cumberland","Other","237","0.5%","100",34011
+"nj","cumberland","Hillary Clinton","27,045","51.0%","100",34011
+"nj","cumberland","Donald Trump","24,213","45.7%","100",34011
+"nj","cumberland","Gary Johnson","1,029","1.9%","100",34011
+"nj","cumberland","Jill Stein","486","0.9%","100",34011
+"nj","cumberland","Other","245","0.5%","100",34011
 "nj","essex","Hillary Clinton","231,031","77.1%","97.6",34013
 "nj","essex","Donald Trump","62,059","20.7%","97.6",34013
 "nj","essex","Gary Johnson","3,028","1.0%","97.6",34013
@@ -8626,11 +8626,11 @@
 "nj","gloucester","Gary Johnson","3,193","2.3%","100",34015
 "nj","gloucester","Jill Stein","1,243","0.9%","100",34015
 "nj","gloucester","Other","648","0.5%","100",34015
-"nj","hudson","Hillary Clinton","148,009","74.5%","95.1",34017
-"nj","hudson","Donald Trump","44,911","22.6%","95.1",34017
-"nj","hudson","Gary Johnson","2,574","1.3%","95.1",34017
-"nj","hudson","Jill Stein","2,391","1.2%","95.1",34017
-"nj","hudson","Other","781","0.4%","95.1",34017
+"nj","hudson","Hillary Clinton","149,980","74.5%","95.1",34017
+"nj","hudson","Donald Trump","45,615","22.6%","95.1",34017
+"nj","hudson","Gary Johnson","2,603","1.3%","95.1",34017
+"nj","hudson","Jill Stein","2,436","1.2%","95.1",34017
+"nj","hudson","Other","791","0.4%","95.1",34017
 "nj","hunterdon","Other","207","0.3%","100",34019
 "nj","hunterdon","Donald Trump","38,565","54.6%","100",34019
 "nj","hunterdon","Hillary Clinton","28,797","40.8%","100",34019
@@ -8948,10 +8948,10 @@
 "ny","cayuga","Donald Trump","16,194","53.8%","100",36011
 "ny","cayuga","Hillary Clinton","12,202","40.5%","100",36011
 "ny","cayuga","Jill Stein","473","1.6%","100",36011
-"ny","chautauqua","Donald Trump","29,042","59.4%","100",36013
-"ny","chautauqua","Hillary Clinton","17,176","35.1%","100",36013
-"ny","chautauqua","Gary Johnson","1,966","4.0%","100",36013
-"ny","chautauqua","Jill Stein","693","1.4%","100",36013
+"ny","chautauqua","Donald Trump","29,418","59.6%","100",36013
+"ny","chautauqua","Hillary Clinton","17,281","35.0%","100",36013
+"ny","chautauqua","Gary Johnson","1,985","4.0%","100",36013
+"ny","chautauqua","Jill Stein","697","1.4%","100",36013
 "ny","chemung","Donald Trump","19,025","57.3%","100",36015
 "ny","chemung","Hillary Clinton","12,394","37.3%","100",36015
 "ny","chemung","Gary Johnson","1,347","4.1%","100",36015
@@ -8992,9 +8992,9 @@
 "ny","franklin","Hillary Clinton","6,517","43.0%","100",36033
 "ny","franklin","Gary Johnson","657","4.3%","100",36033
 "ny","franklin","Jill Stein","338","2.2%","100",36033
-"ny","fulton","Donald Trump","12,448","64.5%","100",36035
-"ny","fulton","Hillary Clinton","5,770","29.9%","100",36035
-"ny","fulton","Gary Johnson","782","4.1%","100",36035
+"ny","fulton","Donald Trump","12,759","65.2%","100",36035
+"ny","fulton","Hillary Clinton","5,805","29.7%","100",36035
+"ny","fulton","Gary Johnson","711","3.6%","100",36035
 "ny","fulton","Jill Stein","288","1.5%","100",36035
 "ny","genesee","Jill Stein","292","1.2%","100",36037
 "ny","genesee","Donald Trump","15,986","65.3%","100",36037
@@ -9024,10 +9024,10 @@
 "ny","lewis","Hillary Clinton","2,828","27.4%","100",36049
 "ny","lewis","Gary Johnson","446","4.3%","100",36049
 "ny","lewis","Jill Stein","122","1.2%","100",36049
-"ny","livingston","Jill Stein","429","1.5%","100",36051
-"ny","livingston","Donald Trump","17,112","58.5%","100",36051
-"ny","livingston","Hillary Clinton","10,478","35.8%","100",36051
-"ny","livingston","Gary Johnson","1,245","4.3%","100",36051
+"ny","livingston","Jill Stein","429","1.4%","100",36051
+"ny","livingston","Donald Trump","19,211","61.3%","100",36051
+"ny","livingston","Hillary Clinton","10,478","33.4%","100",36051
+"ny","livingston","Gary Johnson","1,245","4.0%","100",36051
 "ny","madison","Donald Trump","14,901","54.4%","100",36053
 "ny","madison","Hillary Clinton","10,548","38.5%","100",36053
 "ny","madison","Gary Johnson","1,460","5.3%","100",36053
@@ -9060,10 +9060,10 @@
 "ny","onondaga","Donald Trump","78,277","40.8%","100",36067
 "ny","onondaga","Gary Johnson","7,861","4.1%","100",36067
 "ny","onondaga","Jill Stein","2,909","1.5%","100",36067
-"ny","ontario","Donald Trump","24,237","51.2%","97.8",36069
-"ny","ontario","Hillary Clinton","20,040","42.3%","97.8",36069
-"ny","ontario","Gary Johnson","2,275","4.8%","97.8",36069
-"ny","ontario","Jill Stein","792","1.7%","97.8",36069
+"ny","ontario","Donald Trump","24,343","51.1%","100",36069
+"ny","ontario","Hillary Clinton","20,233","42.4%","100",36069
+"ny","ontario","Gary Johnson","2,285","4.8%","100",36069
+"ny","ontario","Jill Stein","803","1.7%","100",36069
 "ny","orange","Jill Stein","2,017","1.4%","100",36071
 "ny","orange","Donald Trump","72,129","51.2%","100",36071
 "ny","orange","Hillary Clinton","63,037","44.8%","100",36071
@@ -9122,7 +9122,7 @@
 "ny","seneca","Gary Johnson","589","4.6%","100",36099
 "ny","steuben","Donald Trump","25,091","65.4%","100",36101
 "ny","steuben","Hillary Clinton","11,215","29.2%","100",36101
-"ny","steuben","Gary Johnson","1,501","3.9%","100",36101
+"ny","steuben","Gary Johnson","1,522","4.0%","100",36101
 "ny","steuben","Jill Stein","545","1.4%","100",36101
 "ny","st. lawrence","Gary Johnson","1,299","3.7%",".100",36089
 "ny","st. lawrence","Hillary Clinton","14,659","41.7%",".100",36089
@@ -13536,11 +13536,11 @@
 "wa","thurston","Gary Johnson","5,152","5.1%","81.7",53067
 "wa","thurston","Jill Stein","2,193","2.2%","81.7",53067
 "wa","thurston","Other","758","0.8%","81.7",53067
-"wa","wahkiakum","Donald Trump","1,135","56.7%","50",53069
-"wa","wahkiakum","Hillary Clinton","729","36.4%","50",53069
-"wa","wahkiakum","Gary Johnson","85","4.2%","50",53069
-"wa","wahkiakum","Jill Stein","38","1.9%","50",53069
-"wa","wahkiakum","Other","15","0.7%","50",53069
+"wa","wahkiakum","Donald Trump","1,328","56.9%","100",53069
+"wa","wahkiakum","Hillary Clinton","824","35.3%","100",53069
+"wa","wahkiakum","Gary Johnson","110","4.7%","100",53069
+"wa","wahkiakum","Jill Stein","50","2.1%","100",53069
+"wa","wahkiakum","Other","21","0.9%","100",53069
 "wa","walla walla","Donald Trump","6,875","54.8%","50",53071
 "wa","walla walla","Hillary Clinton","4,960","39.5%","50",53071
 "wa","walla walla","Gary Johnson","499","4.0%","50",53071
