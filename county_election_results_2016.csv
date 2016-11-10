@@ -5447,10 +5447,10 @@
 "me","somerset","Hillary Clinton","9,092","35.0%","100",23025
 "me","somerset","Gary Johnson","1,362","5.2%","100",23025
 "me","somerset","Jill Stein","516","2.0%","100",23025
-"me","waldo","Jill Stein","590","2.6%","86.7",23027
-"me","waldo","Hillary Clinton","10,442","46.1%","86.7",23027
-"me","waldo","Donald Trump","10,378","45.9%","86.7",23027
-"me","waldo","Gary Johnson","1,220","5.4%","86.7",23027
+"me","waldo","Jill Stein","590","2.6%","100",23027
+"me","waldo","Hillary Clinton","10,442","46.1%","100",23027
+"me","waldo","Donald Trump","10,378","45.9%","100",23027
+"me","waldo","Gary Johnson","1,220","5.4%","100",23027
 "me","washington","Donald Trump","9,037","54.6%","100",23029
 "me","washington","Hillary Clinton","6,358","38.4%","100",23029
 "me","washington","Gary Johnson","791","4.8%","100",23029
@@ -6144,7 +6144,7 @@
 "mn","martin","Evan McMullin","169","1.6%","100",27091
 "mn","martin","Other","83","0.8%","100",27091
 "mn","martin","Jill Stein","79","0.8%","100",27091
-"mn","mcleod","Donald Trump","12,155","65.0%","100",27085
+"mn","mcleod","Donald Trump","12,154","65.0%","100",27085
 "mn","mcleod","Hillary Clinton","4,980","26.7%","100",27085
 "mn","mcleod","Jill Stein","135","0.7%","100",27085
 "mn","mcleod","Gary Johnson","857","4.6%","100",27085
@@ -6206,7 +6206,7 @@
 "mn","olmsted","Evan McMullin","2,016","2.5%","100",27109
 "mn","otter tail","Hillary Clinton","9,339","28.9%","100",27111
 "mn","otter tail","Other","230","0.7%","100",27111
-"mn","otter tail","Gary Johnson","999","3.1%","100",27111
+"mn","otter tail","Gary Johnson","1,000","3.1%","100",27111
 "mn","otter tail","Evan McMullin","531","1.6%","100",27111
 "mn","otter tail","Jill Stein","245","0.8%","100",27111
 "mn","otter tail","Donald Trump","20,939","64.9%","100",27111
@@ -7310,10 +7310,10 @@
 "ms","sunflower","Hillary Clinton","6,560","69.7%","100",28133
 "ms","sunflower","Donald Trump","2,768","29.4%","100",28133
 "ms","sunflower","Other","31","0.3%","100",28133
-"ms","tallahatchie","Hillary Clinton","3,311","56.9%","100",28135
-"ms","tallahatchie","Donald Trump","2,437","41.9%","100",28135
-"ms","tallahatchie","Other","32","0.6%","100",28135
-"ms","tallahatchie","Gary Johnson","30","0.5%","100",28135
+"ms","tallahatchie","Hillary Clinton","3,337","56.8%","100",28135
+"ms","tallahatchie","Donald Trump","2,462","41.9%","100",28135
+"ms","tallahatchie","Other","32","0.5%","100",28135
+"ms","tallahatchie","Gary Johnson","31","0.5%","100",28135
 "ms","tallahatchie","Jill Stein","8","0.1%","100",28135
 "ms","tate","Donald Trump","7,385","64.8%","100",28137
 "ms","tate","Hillary Clinton","3,804","33.4%","100",28137
@@ -8566,10 +8566,10 @@
 "nh","grafton","Donald Trump","19,010","38.0%","100",33009
 "nh","grafton","Gary Johnson","1,966","3.9%","100",33009
 "nh","grafton","Jill Stein","578","1.2%","100",33009
-"nh","hillsborough","Gary Johnson","9,223","4.4%","100",33011
-"nh","hillsborough","Jill Stein","1,741","0.8%","100",33011
-"nh","hillsborough","Donald Trump","99,788","47.6%","100",33011
-"nh","hillsborough","Hillary Clinton","99,086","47.2%","100",33011
+"nh","hillsborough","Gary Johnson","9,243","4.4%","100",33011
+"nh","hillsborough","Jill Stein","1,745","0.8%","100",33011
+"nh","hillsborough","Donald Trump","99,873","47.5%","100",33011
+"nh","hillsborough","Hillary Clinton","99,348","47.3%","100",33011
 "nh","merrimack","Hillary Clinton","40,056","49.0%","100",33013
 "nh","merrimack","Donald Trump","37,631","46.1%","100",33013
 "nh","merrimack","Gary Johnson","3,275","4.0%","100",33013
