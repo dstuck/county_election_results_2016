@@ -907,10 +907,10 @@
 "ca","riverside","Jill Stein","5,786","1.2%","100",6065
 "ca","riverside","Other","1,803","0.4%","100",6065
 "ca","sacramento","Other","1,310","0.4%","100",6067
-"ca","sacramento","Hillary Clinton","186,237","58.3%","100",6067
-"ca","sacramento","Donald Trump","114,359","35.8%","100",6067
-"ca","sacramento","Gary Johnson","12,856","4.0%","100",6067
-"ca","sacramento","Jill Stein","4,761","1.5%","100",6067
+"ca","sacramento","Hillary Clinton","186,425","58.3%","100",6067
+"ca","sacramento","Donald Trump","114,549","35.8%","100",6067
+"ca","sacramento","Gary Johnson","12,875","4.0%","100",6067
+"ca","sacramento","Jill Stein","4,763","1.5%","100",6067
 "ca","san benito","Hillary Clinton","6,751","57.4%","100",6069
 "ca","san benito","Donald Trump","4,358","37.1%","100",6069
 "ca","san benito","Gary Johnson","407","3.5%","100",6069
@@ -926,11 +926,11 @@
 "ca","san diego","Donald Trump","269,422","38.7%","100",6073
 "ca","san diego","Jill Stein","10,032","1.4%","100",6073
 "ca","san diego","Other","1,563","0.2%","100",6073
-"ca","san francisco","Hillary Clinton","228,211","85.3%","100",6075
-"ca","san francisco","Donald Trump","26,461","9.9%","100",6075
-"ca","san francisco","Jill Stein","6,124","2.3%","100",6075
-"ca","san francisco","Gary Johnson","5,651","2.1%","100",6075
-"ca","san francisco","Other","1,137","0.4%","100",6075
+"ca","san francisco","Hillary Clinton","230,880","85.3%","100",6075
+"ca","san francisco","Donald Trump","26,715","9.9%","100",6075
+"ca","san francisco","Jill Stein","6,186","2.3%","100",6075
+"ca","san francisco","Gary Johnson","5,718","2.1%","100",6075
+"ca","san francisco","Other","1,148","0.4%","100",6075
 "ca","san joaquin","Hillary Clinton","71,349","53.2%","100",6077
 "ca","san joaquin","Other","467","0.3%","100",6077
 "ca","san joaquin","Donald Trump","56,194","41.9%","100",6077
@@ -6122,7 +6122,7 @@
 "mn","lincoln","Jill Stein","18","0.6%","100",27081
 "mn","lyon","Evan McMullin","286","2.4%","100",27083
 "mn","lyon","Other","124","1.0%","100",27083
-"mn","lyon","Donald Trump","7,257","59.8%","100",27083
+"mn","lyon","Donald Trump","7,256","59.8%","100",27083
 "mn","lyon","Hillary Clinton","3,825","31.5%","100",27083
 "mn","lyon","Gary Johnson","523","4.3%","100",27083
 "mn","lyon","Jill Stein","115","0.9%","100",27083
@@ -12453,10 +12453,10 @@
 "tx","zavala","Gary Johnson","49","1.4%","100",48507
 "tx","zavala","Jill Stein","16","0.5%","100",48507
 "um","midway islands",NA,NA,NA,NA,74300
-"ut","beaver","Donald Trump","1,800","74.0%","100",49001
-"ut","beaver","Evan McMullin","316","13.0%","100",49001
-"ut","beaver","Hillary Clinton","258","10.6%","100",49001
-"ut","beaver","Gary Johnson","36","1.5%","100",49001
+"ut","beaver","Donald Trump","1,838","74.0%","100",49001
+"ut","beaver","Evan McMullin","322","13.0%","100",49001
+"ut","beaver","Hillary Clinton","264","10.6%","100",49001
+"ut","beaver","Gary Johnson","36","1.4%","100",49001
 "ut","beaver","Other","14","0.6%","100",49001
 "ut","beaver","Jill Stein","10","0.4%","100",49001
 "ut","box elder","Donald Trump","10,324","62.4%","81.1",49003
@@ -12555,12 +12555,12 @@
 "ut","rich","Gary Johnson","21","1.9%","100",49033
 "ut","rich","Other","12","1.1%","100",49033
 "ut","rich","Jill Stein","1","0.1%","100",49033
-"ut","salt lake","Hillary Clinton","117,667","45.7%","65.5",49035
-"ut","salt lake","Donald Trump","82,590","32.0%","65.5",49035
-"ut","salt lake","Evan McMullin","44,073","17.1%","65.5",49035
-"ut","salt lake","Gary Johnson","8,980","3.5%","65.5",49035
-"ut","salt lake","Jill Stein","2,393","0.9%","65.5",49035
-"ut","salt lake","Other","2,043","0.8%","65.5",49035
+"ut","salt lake","Hillary Clinton","126,702","44.9%","71.8",49035
+"ut","salt lake","Donald Trump","91,375","32.4%","71.8",49035
+"ut","salt lake","Evan McMullin","49,614","17.6%","71.8",49035
+"ut","salt lake","Gary Johnson","9,834","3.5%","71.8",49035
+"ut","salt lake","Jill Stein","2,659","0.9%","71.8",49035
+"ut","salt lake","Other","2,251","0.8%","71.8",49035
 "ut","san juan","Donald Trump","2,073","55.0%","65",49037
 "ut","san juan","Hillary Clinton","1,143","30.3%","65",49037
 "ut","san juan","Evan McMullin","379","10.1%","65",49037
