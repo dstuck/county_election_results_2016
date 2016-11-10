@@ -3797,9 +3797,9 @@
 "in","switzerland","Donald Trump","2,558","70.3%","100",18155
 "in","switzerland","Hillary Clinton","930","25.6%","100",18155
 "in","switzerland","Gary Johnson","151","4.1%","100",18155
-"in","tippecanoe","Donald Trump","30,711","49.6%","100",18157
-"in","tippecanoe","Hillary Clinton","27,207","43.9%","100",18157
-"in","tippecanoe","Gary Johnson","3,998","6.5%","100",18157
+"in","tippecanoe","Donald Trump","30,711","49.6%","87.4",18157
+"in","tippecanoe","Hillary Clinton","27,207","43.9%","87.4",18157
+"in","tippecanoe","Gary Johnson","3,998","6.5%","87.4",18157
 "in","tipton","Gary Johnson","334","4.4%","100",18159
 "in","tipton","Hillary Clinton","1,587","21.1%","100",18159
 "in","tipton","Donald Trump","5,589","74.4%","100",18159
@@ -5399,10 +5399,10 @@
 "me","androscoggin","Donald Trump","28,189","50.9%","100",23001
 "me","androscoggin","Hillary Clinton","22,975","41.5%","100",23001
 "me","androscoggin","Gary Johnson","3,291","5.9%","100",23001
-"me","aroostook","Donald Trump","18,999","55.4%","95.8",23003
-"me","aroostook","Hillary Clinton","13,182","38.4%","95.8",23003
-"me","aroostook","Gary Johnson","1,626","4.7%","95.8",23003
-"me","aroostook","Jill Stein","506","1.5%","95.8",23003
+"me","aroostook","Donald Trump","85","53.5%","1.4",23003
+"me","aroostook","Hillary Clinton","69","43.4%","1.4",23003
+"me","aroostook","Gary Johnson","3","1.9%","1.4",23003
+"me","aroostook","Jill Stein","2","1.3%","1.4",23003
 "me","cumberland","Hillary Clinton","102,935","60.1%","100",23005
 "me","cumberland","Donald Trump","57,697","33.7%","100",23005
 "me","cumberland","Gary Johnson","7,406","4.3%","100",23005
@@ -5952,8 +5952,8 @@
 "mn","chisago","Evan McMullin","496","1.7%","100",27025
 "mn","chisago","Jill Stein","317","1.1%","100",27025
 "mn","chisago","Donald Trump","18,441","61.5%","100",27025
-"mn","clay","Donald Trump","13,526","46.5%","100",27027
-"mn","clay","Hillary Clinton","12,952","44.6%","100",27027
+"mn","clay","Donald Trump","13,525","46.5%","100",27027
+"mn","clay","Hillary Clinton","12,949","44.6%","100",27027
 "mn","clay","Gary Johnson","1,486","5.1%","100",27027
 "mn","clay","Evan McMullin","424","1.5%","100",27027
 "mn","clay","Other","259","0.9%","100",27027
@@ -5973,7 +5973,7 @@
 "mn","cottonwood","Donald Trump","3,679","64.6%","100",27033
 "mn","cottonwood","Jill Stein","41","0.7%","100",27033
 "mn","cottonwood","Hillary Clinton","1,678","29.5%","100",27033
-"mn","cottonwood","Gary Johnson","148","2.6%","100",27033
+"mn","cottonwood","Gary Johnson","150","2.6%","100",27033
 "mn","cottonwood","Evan McMullin","86","1.5%","100",27033
 "mn","cottonwood","Other","63","1.1%","100",27033
 "mn","crow wing","Donald Trump","22,287","62.7%","100",27035
@@ -10400,10 +10400,10 @@
 "pr","villalba municipio",NA,NA,NA,NA,72149
 "pr","yabucoa municipio",NA,NA,NA,NA,72151
 "pr","yauco municipio",NA,NA,NA,NA,72153
-"ri","bristol","Gary Johnson","394","4.1%","47.8",44001
-"ri","bristol","Hillary Clinton","5,239","55.0%","47.8",44001
-"ri","bristol","Donald Trump","3,772","39.6%","47.8",44001
-"ri","bristol","Jill Stein","126","1.3%","47.8",44001
+"ri","bristol","Gary Johnson","854","3.8%","100",44001
+"ri","bristol","Hillary Clinton","13,062","58.2%","100",44001
+"ri","bristol","Donald Trump","8,248","36.7%","100",44001
+"ri","bristol","Jill Stein","289","1.3%","100",44001
 "ri","kent","Donald Trump","36,147","48.5%","100",44003
 "ri","kent","Hillary Clinton","34,585","46.4%","100",44003
 "ri","kent","Gary Johnson","2,740","3.7%","100",44003
