@@ -10408,14 +10408,14 @@
 "ri","kent","Hillary Clinton","34,585","46.4%","100",44003
 "ri","kent","Gary Johnson","2,740","3.7%","100",44003
 "ri","kent","Jill Stein","1,000","1.3%","100",44003
-"ri","newport","Hillary Clinton","19,603","56.2%","100",44005
-"ri","newport","Donald Trump","13,370","38.4%","100",44005
-"ri","newport","Gary Johnson","1,357","3.9%","100",44005
-"ri","newport","Jill Stein","526","1.5%","100",44005
-"ri","providence","Jill Stein","2,997","1.3%","100",44007
-"ri","providence","Gary Johnson","6,333","2.8%","100",44007
-"ri","providence","Hillary Clinton","131,372","58.2%","100",44007
-"ri","providence","Donald Trump","84,939","37.6%","100",44007
+"ri","newport","Hillary Clinton","4,009","49.0%","22",44005
+"ri","newport","Donald Trump","3,763","46.0%","22",44005
+"ri","newport","Gary Johnson","286","3.5%","22",44005
+"ri","newport","Jill Stein","119","1.5%","22",44005
+"ri","providence","Jill Stein","3,036","1.3%","100",44007
+"ri","providence","Gary Johnson","6,410","2.8%","100",44007
+"ri","providence","Hillary Clinton","132,995","58.1%","100",44007
+"ri","providence","Donald Trump","86,327","37.7%","100",44007
 "ri","washington","Donald Trump","23,886","43.0%","100",44009
 "ri","washington","Hillary Clinton","28,430","51.2%","100",44009
 "ri","washington","Gary Johnson","2,254","4.1%","100",44009
@@ -13381,11 +13381,11 @@
 "wa","benton","Gary Johnson","2,521","4.8%","70",53005
 "wa","benton","Other","406","0.8%","70",53005
 "wa","benton","Jill Stein","397","0.8%","70",53005
-"wa","chelan","Donald Trump","8,831","54.7%","52.4",53007
-"wa","chelan","Hillary Clinton","6,528","40.5%","52.4",53007
-"wa","chelan","Gary Johnson","531","3.3%","52.4",53007
-"wa","chelan","Jill Stein","151","0.9%","52.4",53007
-"wa","chelan","Other","91","0.6%","52.4",53007
+"wa","chelan","Donald Trump","11,556","54.9%","66.7",53007
+"wa","chelan","Hillary Clinton","8,402","39.9%","66.7",53007
+"wa","chelan","Gary Johnson","733","3.5%","66.7",53007
+"wa","chelan","Jill Stein","223","1.1%","66.7",53007
+"wa","chelan","Other","124","0.6%","66.7",53007
 "wa","clallam","Donald Trump","13,741","47.1%","79.2",53009
 "wa","clallam","Hillary Clinton","13,733","47.0%","79.2",53009
 "wa","clallam","Gary Johnson","1,095","3.7%","79.2",53009
