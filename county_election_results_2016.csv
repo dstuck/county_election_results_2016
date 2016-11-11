@@ -806,11 +806,11 @@
 "ca","imperial","Gary Johnson","500","2.4%","100",6025
 "ca","imperial","Jill Stein","298","1.4%","100",6025
 "ca","imperial","Other","122","0.6%","100",6025
-"ca","inyo","Donald Trump","3,328","53.2%","100",6027
-"ca","inyo","Hillary Clinton","2,499","39.9%","100",6027
-"ca","inyo","Gary Johnson","249","4.0%","100",6027
-"ca","inyo","Jill Stein","144","2.3%","100",6027
-"ca","inyo","Other","37","0.6%","100",6027
+"ca","inyo","Donald Trump","4,128","53.2%","100",6027
+"ca","inyo","Hillary Clinton","3,067","39.5%","100",6027
+"ca","inyo","Gary Johnson","318","4.1%","100",6027
+"ca","inyo","Jill Stein","203","2.6%","100",6027
+"ca","inyo","Other","45","0.6%","100",6027
 "ca","kern","Other","940","0.6%","100",6029
 "ca","kern","Jill Stein","1,663","1.0%","100",6029
 "ca","kern","Donald Trump","95,064","56.3%","100",6029
@@ -921,16 +921,16 @@
 "ca","san bernardino","Gary Johnson","13,919","3.0%","100",6071
 "ca","san bernardino","Jill Stein","6,513","1.4%","100",6071
 "ca","san bernardino","Other","2,424","0.5%","100",6071
-"ca","san diego","Gary Johnson","25,148","3.6%","100",6073
-"ca","san diego","Hillary Clinton","390,531","56.1%","100",6073
-"ca","san diego","Donald Trump","269,422","38.7%","100",6073
-"ca","san diego","Jill Stein","10,032","1.4%","100",6073
-"ca","san diego","Other","1,563","0.2%","100",6073
-"ca","san francisco","Hillary Clinton","230,880","85.3%","100",6075
-"ca","san francisco","Donald Trump","26,715","9.9%","100",6075
-"ca","san francisco","Jill Stein","6,186","2.3%","100",6075
-"ca","san francisco","Gary Johnson","5,718","2.1%","100",6075
-"ca","san francisco","Other","1,148","0.4%","100",6075
+"ca","san diego","Gary Johnson","26,000","3.6%","100",6073
+"ca","san diego","Hillary Clinton","403,005","55.9%","100",6073
+"ca","san diego","Donald Trump","279,459","38.8%","100",6073
+"ca","san diego","Jill Stein","10,340","1.4%","100",6073
+"ca","san diego","Other","1,609","0.2%","100",6073
+"ca","san francisco","Hillary Clinton","235,633","85.3%","100",6075
+"ca","san francisco","Donald Trump","27,242","9.9%","100",6075
+"ca","san francisco","Jill Stein","6,325","2.3%","100",6075
+"ca","san francisco","Gary Johnson","5,841","2.1%","100",6075
+"ca","san francisco","Other","1,170","0.4%","100",6075
 "ca","san joaquin","Hillary Clinton","71,349","53.2%","100",6077
 "ca","san joaquin","Other","467","0.3%","100",6077
 "ca","san joaquin","Donald Trump","56,194","41.9%","100",6077
@@ -976,11 +976,11 @@
 "ca","siskiyou","Jill Stein","354","2.4%","100",6093
 "ca","siskiyou","Gary Johnson","577","3.9%","100",6093
 "ca","siskiyou","Hillary Clinton","5,252","35.9%","100",6093
-"ca","solano","Jill Stein","1,943","1.5%","100",6095
-"ca","solano","Other","576","0.5%","100",6095
-"ca","solano","Hillary Clinton","79,015","61.9%","100",6095
-"ca","solano","Gary Johnson","4,622","3.6%","100",6095
-"ca","solano","Donald Trump","41,481","32.5%","100",6095
+"ca","solano","Jill Stein","2,245","1.6%","100",6095
+"ca","solano","Other","649","0.5%","100",6095
+"ca","solano","Hillary Clinton","87,419","61.9%","100",6095
+"ca","solano","Gary Johnson","5,264","3.7%","100",6095
+"ca","solano","Donald Trump","45,641","32.3%","100",6095
 "ca","sonoma","Hillary Clinton","116,027","70.7%","100",6097
 "ca","sonoma","Donald Trump","37,421","22.8%","100",6097
 "ca","sonoma","Gary Johnson","5,846","3.6%","100",6097
@@ -10408,18 +10408,18 @@
 "ri","kent","Hillary Clinton","37,582","47.2%","100",44003
 "ri","kent","Gary Johnson","2,925","3.7%","100",44003
 "ri","kent","Jill Stein","1,043","1.3%","100",44003
-"ri","newport","Hillary Clinton","20,455","56.5%","100",44005
-"ri","newport","Donald Trump","13,824","38.2%","100",44005
-"ri","newport","Gary Johnson","1,389","3.8%","100",44005
-"ri","newport","Jill Stein","543","1.5%","100",44005
-"ri","providence","Jill Stein","3,095","1.3%","100",44007
-"ri","providence","Gary Johnson","6,594","2.8%","100",44007
-"ri","providence","Hillary Clinton","136,838","58.2%","100",44007
-"ri","providence","Donald Trump","88,713","37.7%","100",44007
-"ri","washington","Donald Trump","26,146","42.4%","100",44009
-"ri","washington","Hillary Clinton","32,007","51.9%","100",44009
-"ri","washington","Gary Johnson","2,434","3.9%","100",44009
-"ri","washington","Jill Stein","1,035","1.7%","100",44009
+"ri","newport","Hillary Clinton","21,081","56.6%","100",44005
+"ri","newport","Donald Trump","14,201","38.1%","100",44005
+"ri","newport","Gary Johnson","1,428","3.8%","100",44005
+"ri","newport","Jill Stein","558","1.5%","100",44005
+"ri","providence","Jill Stein","3,100","1.3%","100",44007
+"ri","providence","Gary Johnson","6,620","2.8%","100",44007
+"ri","providence","Hillary Clinton","137,347","58.1%","100",44007
+"ri","providence","Donald Trump","89,141","37.7%","100",44007
+"ri","washington","Donald Trump","205","24.5%","5.4",44009
+"ri","washington","Hillary Clinton","600","71.6%","5.4",44009
+"ri","washington","Gary Johnson","17","2.0%","5.4",44009
+"ri","washington","Jill Stein","16","1.9%","5.4",44009
 "sc","abbeville","Donald Trump","6,742","62.9%","100",45001
 "sc","abbeville","Hillary Clinton","3,712","34.6%","100",45001
 "sc","abbeville","Gary Johnson","128","1.2%","100",45001
@@ -13531,11 +13531,11 @@
 "wa","stevens","Gary Johnson","479","3.8%","60",53065
 "wa","stevens","Other","124","1.0%","60",53065
 "wa","stevens","Jill Stein","115","0.9%","60",53065
-"wa","thurston","Hillary Clinton","54,112","53.9%","81.7",53067
-"wa","thurston","Donald Trump","38,141","38.0%","81.7",53067
-"wa","thurston","Gary Johnson","5,152","5.1%","81.7",53067
-"wa","thurston","Jill Stein","2,193","2.2%","81.7",53067
-"wa","thurston","Other","758","0.8%","81.7",53067
+"wa","thurston","Hillary Clinton","60,680","53.2%","92.7",53067
+"wa","thurston","Donald Trump","43,229","37.9%","92.7",53067
+"wa","thurston","Gary Johnson","6,315","5.5%","92.7",53067
+"wa","thurston","Jill Stein","2,826","2.5%","92.7",53067
+"wa","thurston","Other","925","0.8%","92.7",53067
 "wa","wahkiakum","Donald Trump","1,328","56.9%","100",53069
 "wa","wahkiakum","Hillary Clinton","824","35.3%","100",53069
 "wa","wahkiakum","Gary Johnson","110","4.7%","100",53069
