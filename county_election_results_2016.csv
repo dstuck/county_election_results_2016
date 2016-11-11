@@ -10404,22 +10404,22 @@
 "ri","bristol","Hillary Clinton","14,303","58.9%","100",44001
 "ri","bristol","Donald Trump","8,761","36.1%","100",44001
 "ri","bristol","Jill Stein","311","1.3%","100",44001
-"ri","kent","Donald Trump","37,973","47.8%","100",44003
-"ri","kent","Hillary Clinton","37,464","47.2%","100",44003
-"ri","kent","Gary Johnson","2,913","3.7%","100",44003
-"ri","kent","Jill Stein","1,041","1.3%","100",44003
-"ri","newport","Hillary Clinton","19,985","56.3%","100",44005
-"ri","newport","Donald Trump","13,618","38.3%","100",44005
-"ri","newport","Gary Johnson","1,375","3.9%","100",44005
-"ri","newport","Jill Stein","535","1.5%","100",44005
-"ri","providence","Jill Stein","3,070","1.3%","100",44007
-"ri","providence","Gary Johnson","6,535","2.8%","100",44007
-"ri","providence","Hillary Clinton","135,643","58.2%","100",44007
-"ri","providence","Donald Trump","87,683","37.6%","100",44007
-"ri","washington","Donald Trump","25,531","42.9%","100",44009
-"ri","washington","Hillary Clinton","30,679","51.5%","100",44009
-"ri","washington","Gary Johnson","2,367","4.0%","100",44009
-"ri","washington","Jill Stein","1,002","1.7%","100",44009
+"ri","kent","Donald Trump","1,942","59.2%","5.1",44003
+"ri","kent","Hillary Clinton","1,151","35.1%","5.1",44003
+"ri","kent","Gary Johnson","148","4.5%","5.1",44003
+"ri","kent","Jill Stein","40","1.2%","5.1",44003
+"ri","newport","Hillary Clinton","20,308","56.4%","100",44005
+"ri","newport","Donald Trump","13,749","38.2%","100",44005
+"ri","newport","Gary Johnson","1,384","3.8%","100",44005
+"ri","newport","Jill Stein","540","1.5%","100",44005
+"ri","providence","Jill Stein","3,073","1.3%","100",44007
+"ri","providence","Gary Johnson","6,540","2.8%","100",44007
+"ri","providence","Hillary Clinton","135,701","58.2%","100",44007
+"ri","providence","Donald Trump","87,757","37.7%","100",44007
+"ri","washington","Donald Trump","25,673","42.9%","100",44009
+"ri","washington","Hillary Clinton","30,838","51.5%","100",44009
+"ri","washington","Gary Johnson","2,382","4.0%","100",44009
+"ri","washington","Jill Stein","1,004","1.7%","100",44009
 "sc","abbeville","Donald Trump","6,742","62.9%","100",45001
 "sc","abbeville","Hillary Clinton","3,712","34.6%","100",45001
 "sc","abbeville","Gary Johnson","128","1.2%","100",45001
@@ -13376,11 +13376,11 @@
 "wa","asotin","Gary Johnson","619","6.4%","71.4",53003
 "wa","asotin","Other","119","1.2%","71.4",53003
 "wa","asotin","Jill Stein","116","1.2%","71.4",53003
-"wa","benton","Donald Trump","31,573","60.0%","70",53005
-"wa","benton","Hillary Clinton","17,755","33.7%","70",53005
-"wa","benton","Gary Johnson","2,521","4.8%","70",53005
-"wa","benton","Other","406","0.8%","70",53005
-"wa","benton","Jill Stein","397","0.8%","70",53005
+"wa","benton","Donald Trump","37,461","60.0%","82",53005
+"wa","benton","Hillary Clinton","20,740","33.2%","82",53005
+"wa","benton","Gary Johnson","3,186","5.1%","82",53005
+"wa","benton","Other","505","0.8%","82",53005
+"wa","benton","Jill Stein","498","0.8%","82",53005
 "wa","chelan","Donald Trump","11,556","54.9%","66.7",53007
 "wa","chelan","Hillary Clinton","8,402","39.9%","66.7",53007
 "wa","chelan","Gary Johnson","733","3.5%","66.7",53007
@@ -13391,11 +13391,11 @@
 "wa","clallam","Gary Johnson","1,095","3.7%","79.2",53009
 "wa","clallam","Jill Stein","438","1.5%","79.2",53009
 "wa","clallam","Other","195","0.7%","79.2",53009
-"wa","clark","Hillary Clinton","77,270","47.7%","85.6",53011
-"wa","clark","Donald Trump","74,136","45.7%","85.6",53011
-"wa","clark","Gary Johnson","7,320","4.5%","85.6",53011
-"wa","clark","Jill Stein","2,303","1.4%","85.6",53011
-"wa","clark","Other","1,092","0.7%","85.6",53011
+"wa","clark","Hillary Clinton","84,017","46.9%","94.4",53011
+"wa","clark","Donald Trump","82,443","46.1%","94.4",53011
+"wa","clark","Gary Johnson","8,546","4.8%","94.4",53011
+"wa","clark","Jill Stein","2,720","1.5%","94.4",53011
+"wa","clark","Other","1,286","0.7%","94.4",53011
 "wa","columbia","Donald Trump","1,359","69.0%","50",53013
 "wa","columbia","Hillary Clinton","482","24.5%","50",53013
 "wa","columbia","Gary Johnson","83","4.2%","50",53013
