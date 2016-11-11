@@ -1,9 +1,9 @@
 "abbr_state","county","candidate","votes","percent_won","percent_complete","fips"
-"ak","alaska","Hillary Clinton","93,007","37.7%","99.8",NA
-"ak","alaska","Gary Johnson","14,593","5.9%","99.8",NA
-"ak","alaska","Jill Stein","4,445","1.8%","99.8",NA
-"ak","alaska","Other","4,128","1.7%","99.8",NA
-"ak","alaska","Donald Trump","130,415","52.9%","99.8",NA
+"ak","alaska","Hillary Clinton","93,007","37.7%","99.5",NA
+"ak","alaska","Gary Johnson","14,593","5.9%","99.5",NA
+"ak","alaska","Jill Stein","4,445","1.8%","99.5",NA
+"ak","alaska","Other","4,128","1.7%","99.5",NA
+"ak","alaska","Donald Trump","130,415","52.9%","99.5",NA
 "ak","aleutians east borough",NA,NA,NA,NA,2013
 "ak","aleutians west census area",NA,NA,NA,NA,2016
 "ak","anchorage municipality",NA,NA,NA,NA,2020
