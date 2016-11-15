@@ -741,11 +741,11 @@
 "az","yuma","Hillary Clinton","18,336","45.0%","100",4027
 "az","yuma","Gary Johnson","1,399","3.4%","100",4027
 "az","yuma","Jill Stein","438","1.1%","100",4027
-"ca","alameda","Hillary Clinton","337,524","79.5%","100",6001
-"ca","alameda","Donald Trump","64,010","15.1%","100",6001
-"ca","alameda","Gary Johnson","10,568","2.5%","100",6001
-"ca","alameda","Jill Stein","10,458","2.5%","100",6001
-"ca","alameda","Other","1,957","0.5%","100",6001
+"ca","alameda","Hillary Clinton","433,760","79.5%","100",6001
+"ca","alameda","Donald Trump","80,824","14.8%","100",6001
+"ca","alameda","Jill Stein","14,347","2.6%","100",6001
+"ca","alameda","Gary Johnson","13,942","2.6%","100",6001
+"ca","alameda","Other","2,570","0.5%","100",6001
 "ca","alpine","Jill Stein","21","3.7%","100",6003
 "ca","alpine","Hillary Clinton","318","55.3%","100",6003
 "ca","alpine","Donald Trump","211","36.7%","100",6003
@@ -811,26 +811,26 @@
 "ca","inyo","Gary Johnson","318","4.1%","100",6027
 "ca","inyo","Jill Stein","203","2.6%","100",6027
 "ca","inyo","Other","45","0.6%","100",6027
-"ca","kern","Other","940","0.6%","100",6029
-"ca","kern","Jill Stein","1,663","1.0%","100",6029
-"ca","kern","Donald Trump","95,064","56.3%","100",6029
-"ca","kern","Hillary Clinton","64,980","38.5%","100",6029
-"ca","kern","Gary Johnson","6,087","3.6%","100",6029
-"ca","kings","Donald Trump","13,158","56.0%","100",6031
-"ca","kings","Hillary Clinton","9,077","38.6%","100",6031
-"ca","kings","Gary Johnson","870","3.7%","100",6031
-"ca","kings","Jill Stein","246","1.0%","100",6031
-"ca","kings","Other","146","0.6%","100",6031
+"ca","kern","Other","1,177","0.6%","100",6029
+"ca","kern","Jill Stein","2,269","1.1%","100",6029
+"ca","kern","Donald Trump","112,035","54.8%","100",6029
+"ca","kern","Hillary Clinton","81,005","39.6%","100",6029
+"ca","kern","Gary Johnson","7,848","3.8%","100",6029
+"ca","kings","Donald Trump","16,353","54.7%","100",6031
+"ca","kings","Hillary Clinton","11,830","39.6%","100",6031
+"ca","kings","Gary Johnson","1,169","3.9%","100",6031
+"ca","kings","Jill Stein","354","1.2%","100",6031
+"ca","kings","Other","201","0.7%","100",6031
 "ca","lake","Hillary Clinton","6,240","47.8%","100",6033
 "ca","lake","Donald Trump","5,752","44.1%","100",6033
 "ca","lake","Gary Johnson","533","4.1%","100",6033
 "ca","lake","Jill Stein","457","3.5%","100",6033
 "ca","lake","Other","63","0.5%","100",6033
 "ca","lassen","Jill Stein","105","1.0%","100",6035
-"ca","lassen","Donald Trump","7,458","72.5%","100",6035
-"ca","lassen","Hillary Clinton","2,213","21.5%","100",6035
-"ca","lassen","Gary Johnson","466","4.5%","100",6035
-"ca","lassen","Other","44","0.4%","100",6035
+"ca","lassen","Donald Trump","7,573","72.7%","100",6035
+"ca","lassen","Hillary Clinton","2,224","21.3%","100",6035
+"ca","lassen","Gary Johnson","473","4.5%","100",6035
+"ca","lassen","Other","46","0.4%","100",6035
 "ca","los angeles","Hillary Clinton","1,654,626","71.5%","100",6037
 "ca","los angeles","Donald Trump","542,591","23.4%","100",6037
 "ca","los angeles","Gary Johnson","56,905","2.5%","100",6037
@@ -921,11 +921,11 @@
 "ca","san bernardino","Gary Johnson","18,269","3.2%","100",6071
 "ca","san bernardino","Jill Stein","8,900","1.6%","100",6071
 "ca","san bernardino","Other","3,180","0.6%","100",6071
-"ca","san diego","Gary Johnson","29,196","3.6%","100",6073
-"ca","san diego","Hillary Clinton","448,053","55.9%","100",6073
-"ca","san diego","Donald Trump","311,187","38.8%","100",6073
-"ca","san diego","Jill Stein","11,523","1.4%","100",6073
-"ca","san diego","Other","1,815","0.2%","100",6073
+"ca","san diego","Gary Johnson","31,030","3.7%","100",6073
+"ca","san diego","Hillary Clinton","472,514","55.9%","100",6073
+"ca","san diego","Donald Trump","328,080","38.8%","100",6073
+"ca","san diego","Jill Stein","12,221","1.4%","100",6073
+"ca","san diego","Other","1,903","0.2%","100",6073
 "ca","san francisco","Hillary Clinton","269,841","85.3%","100",6075
 "ca","san francisco","Donald Trump","30,758","9.7%","100",6075
 "ca","san francisco","Jill Stein","7,361","2.3%","100",6075
@@ -966,21 +966,21 @@
 "ca","shasta","Hillary Clinton","17,483","28.4%","100",6089
 "ca","shasta","Jill Stein","905","1.5%","100",6089
 "ca","shasta","Other","238","0.4%","100",6089
-"ca","sierra","Donald Trump","1,044","58.3%","100",6091
-"ca","sierra","Hillary Clinton","596","33.3%","100",6091
-"ca","sierra","Gary Johnson","96","5.4%","100",6091
-"ca","sierra","Jill Stein","40","2.2%","100",6091
+"ca","sierra","Donald Trump","1,048","58.1%","100",6091
+"ca","sierra","Hillary Clinton","601","33.3%","100",6091
+"ca","sierra","Gary Johnson","98","5.4%","100",6091
+"ca","sierra","Jill Stein","42","2.3%","100",6091
 "ca","sierra","Other","15","0.8%","100",6091
 "ca","siskiyou","Donald Trump","8,392","57.3%","100",6093
 "ca","siskiyou","Other","64","0.4%","100",6093
 "ca","siskiyou","Jill Stein","354","2.4%","100",6093
 "ca","siskiyou","Gary Johnson","577","3.9%","100",6093
 "ca","siskiyou","Hillary Clinton","5,252","35.9%","100",6093
-"ca","solano","Jill Stein","2,245","1.6%","100",6095
-"ca","solano","Other","649","0.5%","100",6095
-"ca","solano","Hillary Clinton","87,419","61.9%","100",6095
-"ca","solano","Gary Johnson","5,264","3.7%","100",6095
-"ca","solano","Donald Trump","45,641","32.3%","100",6095
+"ca","solano","Jill Stein","2,425","1.6%","100",6095
+"ca","solano","Other","687","0.5%","100",6095
+"ca","solano","Hillary Clinton","92,136","62.0%","100",6095
+"ca","solano","Gary Johnson","5,608","3.8%","100",6095
+"ca","solano","Donald Trump","47,643","32.1%","100",6095
 "ca","sonoma","Hillary Clinton","116,027","70.7%","100",6097
 "ca","sonoma","Donald Trump","37,421","22.8%","100",6097
 "ca","sonoma","Gary Johnson","5,846","3.6%","100",6097
@@ -1011,11 +1011,11 @@
 "ca","tulare","Gary Johnson","1,804","3.0%","100",6107
 "ca","tulare","Jill Stein","681","1.1%","100",6107
 "ca","tulare","Other","297","0.5%","100",6107
-"ca","tuolumne","Donald Trump","10,614","56.8%","100",6109
-"ca","tuolumne","Hillary Clinton","7,075","37.8%","100",6109
-"ca","tuolumne","Gary Johnson","735","3.9%","100",6109
-"ca","tuolumne","Jill Stein","227","1.2%","100",6109
-"ca","tuolumne","Other","42","0.2%","100",6109
+"ca","tuolumne","Donald Trump","13,486","57.5%","100",6109
+"ca","tuolumne","Hillary Clinton","8,580","36.6%","100",6109
+"ca","tuolumne","Gary Johnson","1,005","4.3%","100",6109
+"ca","tuolumne","Jill Stein","345","1.5%","100",6109
+"ca","tuolumne","Other","56","0.2%","100",6109
 "ca","ventura","Other","1,030","0.4%","100",6111
 "ca","ventura","Jill Stein","4,194","1.6%","100",6111
 "ca","ventura","Hillary Clinton","143,095","55.2%","100",6111
@@ -13456,11 +13456,11 @@
 "wa","kitsap","Gary Johnson","7,603","6.7%","92.4",53035
 "wa","kitsap","Jill Stein","2,009","1.8%","92.4",53035
 "wa","kitsap","Other","1,011","0.9%","92.4",53035
-"wa","kittitas","Donald Trump","7,530","54.7%","72.7",53037
-"wa","kittitas","Hillary Clinton","5,452","39.6%","72.7",53037
-"wa","kittitas","Gary Johnson","516","3.7%","72.7",53037
-"wa","kittitas","Jill Stein","184","1.3%","72.7",53037
-"wa","kittitas","Other","84","0.6%","72.7",53037
+"wa","kittitas","Donald Trump","8,356","54.2%","72.7",53037
+"wa","kittitas","Hillary Clinton","6,113","39.6%","72.7",53037
+"wa","kittitas","Gary Johnson","636","4.1%","72.7",53037
+"wa","kittitas","Jill Stein","216","1.4%","72.7",53037
+"wa","kittitas","Other","104","0.7%","72.7",53037
 "wa","klickitat","Donald Trump","4,845","54.0%","71.4",53039
 "wa","klickitat","Hillary Clinton","3,543","39.5%","71.4",53039
 "wa","klickitat","Gary Johnson","345","3.8%","71.4",53039
